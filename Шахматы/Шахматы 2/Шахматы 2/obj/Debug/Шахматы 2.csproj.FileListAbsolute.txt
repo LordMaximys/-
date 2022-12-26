@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\bin\Debug\Шахматы 2.exe.config
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\bin\Debug\Шахматы 2.exe
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\bin\Debug\Шахматы 2.pdb
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы 2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы_2.Properties.Resources.resources
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы 2.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы 2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы 2.exe
+C:\Users\student\Desktop\Zhuravko31IS20\Шахматы 2\Шахматы 2\obj\Debug\Шахматы 2.pdb

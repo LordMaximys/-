@@ -1,0 +1,12 @@
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.AssemblyReference.cache
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.SuggestedBindingRedirects.cache
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.Form1.resources
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.Properties.Resources.resources
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.GenerateResource.cache
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.CoreCompileInputs.cache
+C:\32кс savchukov\Шахматы\Шахматы\bin\Debug\Шахматы.exe.config
+C:\32кс savchukov\Шахматы\Шахматы\bin\Debug\Шахматы.exe
+C:\32кс savchukov\Шахматы\Шахматы\bin\Debug\Шахматы.pdb
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.exe
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.pdb
+C:\32кс savchukov\Шахматы\Шахматы\obj\Debug\Шахматы.Form2.resources

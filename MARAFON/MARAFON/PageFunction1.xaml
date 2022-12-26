@@ -1,0 +1,71 @@
+﻿<PageFunction
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    x:Class="MARAFON.PageFunction1"
+    x:TypeArguments="sys:String"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:MARAFON"
+    mc:Ignorable="d"
+    d:DesignHeight="427" d:DesignWidth="700"
+    Title="PageFunction1">
+    <Grid>
+        <Label Background="{DynamicResource Dark_grey}"  Content="MARAFON SKILLS 2017" FontWeight="Bold" Foreground="white" HorizontalAlignment="Center" Height="50" VerticalAlignment="Top" Width="730"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="620,5,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <RichTextBox Margin="10,55,0,277" Background="Transparent">
+            <FlowDocument TextAlignment="Center">
+                <Paragraph FontWeight="Bold">
+                    <Run Text="Спонсор бегуна"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Пожалуйста выберите бегуна, котрого вы хотели бы спонсировать. Спасибо за вашу подержку бегунов и их благотворительных учреждений"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label  FontWeight="Bold" Content="Информация о спонсоре" HorizontalAlignment="Left" Margin="80,168,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="Благотворительность" HorizontalAlignment="Left" Margin="427,155,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="Сумма пожертвования" HorizontalAlignment="Left" Margin="430,350,0,0" VerticalAlignment="Top"/>
+        <Button Content="Заплатить" HorizontalAlignment="Left" Margin="551,397,0,0" VerticalAlignment="Top"/>
+        <Button Content="Отмена" HorizontalAlignment="Left" Margin="644,397,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.241,2.255" Width="56"/>
+        <TextBox HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="427,269,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="120" />
+        <Label  FontWeight="Bold" Content="Фонд" HorizontalAlignment="Left" Margin="466,181,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="Сумма пожертвования" HorizontalAlignment="Left" Margin="418,207,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="50$" HorizontalAlignment="Left" Margin="466,238,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.569,0.077"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="385,269,0,0" VerticalAlignment="Top" Width="29"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="561,269,0,0" VerticalAlignment="Top" Width="29"/>
+        <TextBox HorizontalAlignment="Left" Margin="80,219,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.342,-1.058"/>
+        <Label  FontWeight="Bold" Content="ваше имя" HorizontalAlignment="Left" Margin="10,215,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="80,270,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.342,-1.058"/>
+        <TextBox HorizontalAlignment="Left" Margin="80,293,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.342,-1.058"/>
+        <TextBox HorizontalAlignment="Left" Margin="80,316,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.342,-1.058" Height="19"/>
+        <TextBox HorizontalAlignment="Left" Margin="120,316,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.342,-1.058"/>
+        <TextBox HorizontalAlignment="Left" Margin="80,340,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.342,-1.058" Height="19"/>
+        <Label  FontWeight="Bold" Content="Бегун" HorizontalAlignment="Left" Margin="37,241,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="Карта" HorizontalAlignment="Left" Margin="34,267,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="Номер карты" HorizontalAlignment="Left" Margin="-4,288,0,0" VerticalAlignment="Top"/>
+        <Label  FontWeight="Bold" Content="Срок действия" HorizontalAlignment="Left" Margin="-15,309,0,0" VerticalAlignment="Top" Width="96" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.248"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.162"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label  FontWeight="Bold" Content="CVC" HorizontalAlignment="Left" Margin="21,337,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="80,243,0,0" VerticalAlignment="Top" Width="120"/>
+        <Image HorizontalAlignment="Left" Height="24" Margin="526,187,0,0" VerticalAlignment="Top" Width="25" Source="/info.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.67"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.322"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+    </Grid>
+</PageFunction>
